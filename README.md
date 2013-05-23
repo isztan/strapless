@@ -1,4 +1,4 @@
-Strapless
+strapless
 ===
  
-Strapess is a minimalist frontend framework
+Strapless is a minimalist frontend web framework. We are the anti-bootstrap.
