@@ -1,0 +1,141 @@
+/*
+  Null Custom CSS
+  Download - http://github.com/dylanized/null
+  Author - Dylan Hassinger
+  Site - null.dylanized.com
+*/
+
+/* body settings */
+
+    body {
+
+    }
+    
+    body, input, textarea {
+
+    }	    	         	    	    		   
+		
+/* header */
+
+        #header {
+
+        }
+        
+        #header #logo {
+          
+        }
+        
+        #header #logo a {                 	
+
+        }
+        
+        #header #logo a:hover,
+        #header #logo a:active {
+
+        }        
+        
+        #header #tagline {
+
+        }      
+	    	    	
+	/* common styleset */		
+	
+			.common {
+			}
+	
+			.common p {
+
+			}		
+	
+	        .common blockquote {
+	    	}
+	    	
+	        .common blockquote p {
+
+	    	}	
+	    	
+	/* image alignment */
+			
+			.common .alignleft,
+			.common .alignright,
+			.common .alignnone,
+			.common .aligncenter {
+
+			}									
+		
+		    .common .wp-caption-text {
+
+		    }
+		    	    	
+	/* posts */
+
+			.common .post {
+
+			}
+
+			.common .post-meta {
+
+			}
+			
+			.common .post-nav {
+
+			}	    	    
+			
+			.common  .post-nav {
+
+			}
+			
+			.common  .post-nav .alignright,
+			.common  .post-nav .alignleft {
+
+			}
+						
+	/* forms */	
+		
+			.common-form label {
+
+			}
+			
+			.common-form input[type=text],
+			.common-form textarea {
+
+			}
+			
+			.common-form input[type=text]:focus,
+			.common-form textarea:focus {
+
+			}			
+			
+			.common-form input[type=submit] {
+
+			}	
+			
+	/* sidebar */
+	
+			.sidebar-widget {
+
+			}			
+			
+			.panel {
+
+			}	
+										
+/* footer */
+
+        #footer {
+
+        }  
+    
+        #footer #footer-text {
+
+        }                   				
+    
+/* mobile overrides */
+
+	@media handheld, only screen and (max-width: 800px) {
+
+	}
+
+	@media handheld, only screen and (max-width: 400px) {
+
+	}

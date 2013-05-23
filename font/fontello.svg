@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20100429 at Fri Feb 15 04:24:41 2013
+ By root
+Copyright (C) 2012 by original authors @ fontello.com
+</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="364" >
+  <font-face 
+    font-family="fontello"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="850"
+    descent="-150"
+    bbox="0 -150 1245 850"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+0054-F05D"
+  />
+<missing-glyph 
+d="M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z" />
+    <glyph glyph-name=".notdef" 
+d="M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="333" 
+ />
+    <glyph glyph-name="T" unicode="T" horiz-adv-x="1260" 
+d="M15 -37q30 -3 60 -3q176 0 314 108q-84 1 -148.5 51.5t-87.5 123.5q17 -4 47 -4q36 0 67 9q-85 16 -144 85t-59 162v3q52 -29 115 -31q-49 32 -81 87t-32 123t35 127q89 -112 223 -183.5t297 -80.5q-7 31 -7 58q0 104 74 178t179 74q109 0 184 -80q85 18 160 62
+q-28 -91 -110 -140q75 9 144 40q-48 -75 -125 -131v-33q0 -212 -120 -396q-131 -202 -346 -280q-117 -42 -252 -42q-208 0 -387 113z" />
+    <glyph glyph-name="f" unicode="f" horiz-adv-x="568" 
+d="M15 313v191h154v96q0 104 67 177t164 73h153v-191h-153q-17 0 -28 -18t-11 -39v-98h192v-191h-192v-463h-192v463h-154z" />
+    <glyph glyph-name="uniF05D" unicode="&#xf05d;" horiz-adv-x="938" 
+d="M176 -119q-72 0 -124 52t-52 124v288h215q23 -80 92.5 -135.5t161.5 -55.5q91 0 160.5 55.5t92.5 135.5h216v-288q0 -72 -52 -124t-124 -52h-586zM469 682q-91 0 -161 -55.5t-93 -135.5h-215v152q0 72 52 124t124 52h586q72 0 124 -52t52 -124v-152h-216
+q-23 80 -92 135.5t-161 55.5zM323 418q0 60 43 103t103 43t103.5 -43t43.5 -103t-43.5 -103.5t-103.5 -43.5t-103 43.5t-43 103.5z" />
+  </font>
+</defs></svg>

@@ -1,4 +1,4 @@
-strapless
-=========
-
-Minimalist HTML/CSS framework
+Strapless
+===
+ 
+Strapess is a minimalist frontend framework
