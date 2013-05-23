@@ -14,6 +14,7 @@
 		color : #333;     
 		text-align: left;	      
 		position : relative;   
+		padding-top : 1.5em;
     }
     
     body, input, textarea {
@@ -22,8 +23,8 @@
     
     a:link     	{ color: #999; font-weight: normal; text-decoration: none; }
     a:visited  	{ color: #999; font-weight: normal; text-decoration: none; }
-    a:hover    	{ color: #333; font-weight: normal; text-decoration: underline; }
-    a:active   	{ color: #333; font-weight: normal; text-decoration: underline; }	         
+    a:hover    	{ color: #333; font-weight: normal; text-decoration: none; }
+    a:active   	{ color: #333; font-weight: normal; text-decoration: none; }	         
 	    	    		    
 /* structure */
 	
@@ -52,7 +53,7 @@
         
         #header #logo {
         	margin : 0 0 .2em 0;        	
-          	font-size : 4em;
+          	font-size : 3em;
           	line-height : 1.0;
             font-weight : normal;  
             text-align : center;       
@@ -70,11 +71,10 @@
         	color : #ccc;
         }        
         
-        #header #tagline {
+        #tagline {
         	font-weight : normal;
         	line-height : 1.0;
-        	color : #999;
-            text-align : center;
+        	text-align : center;
         }      
 
 	/* primary-nav */
@@ -179,17 +179,19 @@
 			.common h5,
 			.common h6 {
 				font-weight : normal;
-				margin : 0 0 1.5em 0;
+				margin : 0 0 0.7em 0;
 				padding : 0;
 				line-height : 1.1;
 			}		
 			
-			.common h1 { font-size : 2.0em; color: #ccc; }
-			.common h2 { font-size : 2.0em; color: #ccc; }
+			.common h1 { font-size : 3.0em; margin-bottom : 15px; }
+			.common h2 { font-size : 2.0em; }
 			.common h3 { font-size : 1.5em; }
 			.common h4 { font-size : 1.3em; }
 			.common h5 { font-size : 1.0em; }
 			.common h6 { font-size : 1.0em; }	
+			
+			.common h6 a:link { text-decoration : none !important; }		
 	
 			.common p,
 			.common nav {
@@ -385,5 +387,7 @@
 	}
 
 	@media handheld, only screen and (max-width: 400px) {
-
+		#header .container 	{ padding-top : .5em; }
+		#header #logo		{ text-align : normal; }
+		#header #tagline	{ text-align : normal; }
 	}
